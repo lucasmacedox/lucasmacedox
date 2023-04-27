@@ -38,13 +38,3 @@
   </a>
 
 </p>
-
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasmacedox&show_icons=true&locale=en&layout=compact" alt="lucasmacedox" />
-</p>
-<p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasmacedox&show_icons=true&locale=en" alt="lucasmacedox" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasmacedox&" alt="lucasmacedox" />
-</p>
