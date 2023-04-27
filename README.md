@@ -1,4 +1,4 @@
-### Hi there, I'm Macedox 👋
+### Hi there, I'm Macedox! 👋
 
 <div>
 <a href="https://github.com/lucasmacedox/lucasmacedox/">
